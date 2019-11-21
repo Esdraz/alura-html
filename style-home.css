@@ -6,6 +6,7 @@
     background: #CCCCCC;
     padding: 30px;
 }
+
 .titulo-principal {
     padding-left: 20px;
 }
@@ -29,6 +30,7 @@ em strong {
 .itens {
     font-style: italic;
 }
+
 .beneficios {
     background: #FFFFFF;
 }
